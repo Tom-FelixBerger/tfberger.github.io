@@ -1,4 +1,4 @@
-baseURL = "https://tfberger.github.io/"
+baseURL = "https://tom-felixberger.github.io/"
 title = "Tom-Felix Berger"
 theme = "hugo-paper"
 languageCode = "en-us"
