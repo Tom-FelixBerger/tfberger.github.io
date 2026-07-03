@@ -9,7 +9,7 @@ Hi! I'm a PhD researcher in philosophy at the Ruhr University Bochum.
 
 My research focus is on **philosophy of AI**, including questions such as: What is it for an AI to deceive? And how can we ascribe beliefs, desires, or intentions to AI? I also conduct more technical research on detection and mitigation approaches of LLM deception rooted in **mechanistic interpretability**.
 
-I am supervized by [Albert Newen](https://www.pe.ruhr-uni-bochum.de/philosophie/ii/newen/newen/index.html.de) and [Christian Straßer](https://www.ruhr-uni-bochum.de/rrs-philosophy/members/christian). My dissertation will be on the topic: *"Deception by Large Language Models: A Mechanistic Perspective Grounded in the Philosophy of Artificial Minds"*.
+I am supervized by [Albert Newen](https://www.pe.ruhr-uni-bochum.de/philosophie/ii/newen/newen/index.html.de), [Christian Straßer](https://www.ruhr-uni-bochum.de/rrs-philosophy/members/christian) and [Leonard Dung](https://sites.google.com/view/leonard-dung/home/). My dissertation will be on the topic: *"Deception by Large Language Models: A Mechanistic Perspective Grounded in the Philosophy of Artificial Minds"*.
 
 I recently changed my surname to "Thormann", it was "Berger" before. If you find a Tom-Felix Berger somewhere, that's probably me...
 </div>
