@@ -7,7 +7,9 @@ title: "Tom-Felix Thormann (née Berger)"
 
 Hi! I'm a PhD researcher in philosophy at the Ruhr University Bochum.
 
-My research focus is on **philosophy of AI**, including questions such as: What is it for an AI to deceive? And how can we ascribe beliefs, desires, or intentions to AI? I also conduct more technical research on detection and mitigation approaches of LLM deception rooted in **mechanistic interpretability**.
+My research focus is on **philosophy of AI**, including questions such as: What is it for an AI to deceive? How can we ascribe beliefs, desires, or intentions to AI? And what challenges arise from these questions about artificial minds for the scientific investigation of AI as a research subject? I also conduct more technical research on detection and mitigation approaches of LLM deception rooted in **mechanistic interpretability**.
+
+Besides, I'm also interested in applications of agent-based models to philosophical topics, such as the evolution of morality or social epistemology.
 
 I am supervized by [Albert Newen](https://www.pe.ruhr-uni-bochum.de/philosophie/ii/newen/newen/index.html.de), [Christian Straßer](https://www.ruhr-uni-bochum.de/rrs-philosophy/members/christian) and [Leonard Dung](https://sites.google.com/view/leonard-dung/home/). My dissertation will be on the topic: *"Deception by Large Language Models: A Mechanistic Perspective Grounded in the Philosophy of Artificial Minds"*.
 
